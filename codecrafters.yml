@@ -8,5 +8,5 @@ debug: true
 # on Codecrafters.
 #
 # Available versions: python-3.12
-language_pack: python-3.10.12
-# language_pack: python-3.12
+# language_pack: python-3.10.12
+language_pack: python-3.12
